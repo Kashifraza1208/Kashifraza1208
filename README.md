@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm MD KASHIF RAZA</h1>
+<h1 align="center">Hi 👋, I'm Md Kashif Raza </h1>
 <h3 align="center">A passionate developer and Coder from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifraza1208&label=Profile%20views&color=0e75b6&style=flat" alt="kashifraza1208" /> </p>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/Kashifraza1208/264642..." )
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashifraza1208" alt="kashifraza1208" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kashifraza1208" target="blank"><img src="https://img.shields.io/twitter/follow/kashifraza1208?logo=twitter&style=for-the-badge" alt="kashifraza1208" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
