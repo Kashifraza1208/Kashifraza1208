@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifraza1208&label=Profile%20views&color=0e75b6&style=flat" alt="kashifraza1208" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **New Technology**
 
-- 💬 Ask me about **ReactJs , C++ , Coding Problem**
+- 💬 Ask me about **MERN , C++ , Coding Problem**
 
 - 📫 How to reach me **kashifrazasonbarsa@gmail.com**
 
