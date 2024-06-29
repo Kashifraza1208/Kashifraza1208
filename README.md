@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **MERN , SvelteJS ,  C++ , Coding Problem**
+- 💬 Ask me about **React, Node, Express, MongoDB , SvelteJS ,  C++ , Coding Problem**
 
 - 📫 How to reach me **kashifrazasonbarsa@gmail.com**
 
